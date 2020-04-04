@@ -6,7 +6,7 @@ public class Calistir {
 
 	public static void main(String[] args) {
 		
-		
+		// Sayilari Tanimlayalim.
 		int sayi1;
 		int sayi2;
 		int sayi3;
