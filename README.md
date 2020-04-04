@@ -1,0 +1,2 @@
+# BesBirSayisalLotoPrj
+SayisalLotoPrj
